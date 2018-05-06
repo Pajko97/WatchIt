@@ -1,11 +1,13 @@
 import React, { Component } from 'react'
 
-export default class Fresh extends Component {
+class Layout extends Component {
   render() {
     return (
       <div>
-        Fresh
+        
       </div>
     )
   }
 }
+
+export default Layout;
